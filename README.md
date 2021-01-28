@@ -31,7 +31,7 @@ No prerequisites
 
 1.  Clone the repo
 
-`git clone https://github.com/katiehawcutt/JavaScript30-Drumkit.git`
+`git clone https://github.com/katiehawcutt/drumkit.git`
 
 2. Run the index.html in a browser
 
